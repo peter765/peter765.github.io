@@ -1,0 +1,11 @@
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: Welcome
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: Personal Blog and Website
+
+# My information
+author: 
+    name: Peter John
+    github: https://github.com/peter765
+    linkedin: https://www.linkedin.com/in/peter765/
